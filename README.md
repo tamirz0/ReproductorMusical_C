@@ -1,5 +1,5 @@
 # ReproductorMusical_C
-Implementacion de un Reproductor Musical en C
+Implementacion de un Reproductor Musical en Python
 
 ## Alcance 
 - Reproducir, pausar, detener, ajustar volumen y cambiar de canciones.
@@ -8,6 +8,7 @@ Implementacion de un Reproductor Musical en C
 - Mostrar el tiempo de reproduccion de la cancion actual.
 - Interfaz a traves de la terminal.
 
-## Biblioteca de Audio
-Uso de SLD2 (Simple DirectMedia Layer) https://wiki.libsdl.org/
+## Bibliotecas
+- [Pygame](https://www.pygame.org/news) - Para la reproduccion de audio.
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) - Para la interfaz grafica.
 
