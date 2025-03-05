@@ -1,4 +1,4 @@
-# ReproductorMusical_C
+# ReproductorMusical_Py
 Implementacion de un Reproductor Musical en Python
 
 ## Alcance 
